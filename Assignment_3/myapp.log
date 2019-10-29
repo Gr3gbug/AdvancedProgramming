@@ -1,0 +1,22 @@
+2019-01-18 23:29:29,122 *** Starting execution of raj2jar ***
+2019-01-18 23:29:29,123 CALL insert_path function
+2019-01-18 23:29:33,227 Move into directory: /home/gregbug/Desktop/test
+2019-01-18 23:29:33,228  !!! Jar Found !!!
+2019-01-18 23:29:33,228 Complete path of file is: /home/gregbug/Desktop/test/sub1/lalla.raj
+2019-01-18 23:29:33,228 File name is: lalla.raj
+2019-01-18 23:31:08,259 *** Starting execution of collect_sources ***
+2019-01-18 23:31:08,259 CALL insert_path function
+2019-01-18 23:31:12,445 Working directory is: /home/gregbug/Desktop/test
+2019-01-18 23:31:20,365 Moving on the following path: /home/gregbug/Desktop/test
+2019-01-18 23:31:20,366 SourceFile has been created
+2019-01-18 23:33:01,852 *** Starting execution of rebuild_packages ***
+2019-01-18 23:33:01,852 CALL insert_path function
+2019-01-18 23:33:07,163 Working directory is: /home/gregbug/Desktop/test
+2019-01-18 23:33:07,164  - File found in: /sub4/sub4-4/pkg
+2019-01-18 23:33:07,164  -- The package name and directory correspond
+2019-01-18 23:33:07,165  - File found in: /sub3
+2019-01-18 23:33:07,165  -- The package name and directory correspond
+2019-01-18 23:33:07,165  - File found in: /sub1/sub1-1/sub1-1-1/sub1-1-1-1/sub
+2019-01-18 23:33:07,165  -- The package name and directory correspond
+2019-01-18 23:33:07,166  - File found in: /sub1/sub1-1/sub1-1-1/subtest
+2019-01-18 23:33:07,166  -- The package name and directory correspond
